@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_kg
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: kg
+  m_SharedData: {fileID: 11400000, guid: 88c822e6860a1154680825101db2d0db, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8593129472
+    m_Localized: buy'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13473684701184
+    m_Localized: '''aw'''
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30407121747968
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32363282219008
+    m_Localized: wab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32618795024384
+    m_Localized: QoQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32855269883904
+    m_Localized: ghom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33079027613696
+    m_Localized: yach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33265216962560
+    m_Localized: Hol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39607939940352
+    m_Localized: suS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39953101799424
+    m_Localized: T je C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41787497431040
+    m_Localized: Te ra'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42065982439424
+    m_Localized: tlhIngan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64574651940864
+    m_Localized: "nobHa'\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115365806915584
+    m_Localized: yIchaw'!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407009898840064
+    m_Localized: Qutlh
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

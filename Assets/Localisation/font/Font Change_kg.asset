@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Font Change_kg
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: kg
+  m_SharedData: {fileID: 11400000, guid: 97c0bc963d94e5443ba0678437fa79bf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5153800192
+    m_Localized: fe7f94bc8075607489e97da0911e45e0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247827841024
+    m_Localized: fe7f94bc8075607489e97da0911e45e0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115728463216640
+    m_Localized: 03ec76ddc533a0d46824db41e6c31255
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

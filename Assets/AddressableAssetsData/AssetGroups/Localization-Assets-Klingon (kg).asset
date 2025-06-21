@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Klingon (kg)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Klingon (kg)
+  m_GUID: 4455f95d7afb8e24399951e214c8dbab
+  m_SerializeEntries:
+  - m_GUID: 01e0692ef74b3f24f8046b8f89aa8261
+    m_Address: klingon - Button 01
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03ec76ddc533a0d46824db41e6c31255
+    m_Address: klingon Bold
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab26cf96c96a96049a908873981ec19f
+    m_Address: klingon - Header 01
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfbec5f236874c1438a717ffe1bcad1f
+    m_Address: klingon - Outline
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3a74ea87aa651a4c83394a00c0fd8d0
+    m_Address: klingon - Button Green
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1d323a2ccf8e974e86273c19ccd5595
+    m_Address: klingon - Settings
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe7f94bc8075607489e97da0911e45e0
+    m_Address: klingon font SDF
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-kg
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 741a4f1cb8d227f46a213177f9a07e51, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cb478ab7104029e4885bf85b3bbd4f60, type: 2}
+    - {fileID: 11400000, guid: 6cf4f20235ac8dc4a917963dacff13d2, type: 2}

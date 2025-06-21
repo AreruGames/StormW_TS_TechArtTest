@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_GUID: 83b338b540ae7814791a7df587e53aa9
+  m_SerializeEntries:
+  - m_GUID: 5d5eaed7635c1bb46adde2df78792973
+    m_Address: Lato-Black SDF
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f436dbcffb2b634d8e73a1027884412
+    m_Address: Yorkie - Bold
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69d1b73e44bbd0643b1fc1727a6b8b46
+    m_Address: Lato - Settings
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c4b7c4a0db89d4aa689705f63e8e8d
+    m_Address: Yorkie-SemiBold SDF
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 906a2c9a00c1f804d9baac485f214c91
+    m_Address: Yorkie - title01
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b543c6a2584fe6b4aaa2f2776f24b564
+    m_Address: Lato - Button 01
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bad1638047346f44e850911e24726815
+    m_Address: Yorkie - Outline
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6b7e69cb0416e4438036e98879cd3ab
+    m_Address: Lato - Button Green
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 741a4f1cb8d227f46a213177f9a07e51, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06c3507086fc2714ea98f00bb7be98e3, type: 2}
+    - {fileID: 11400000, guid: ead85a3d49a95704aafefffd1cf1efff, type: 2}
